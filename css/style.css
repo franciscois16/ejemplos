@@ -1,0 +1,16 @@
+body {
+    background-color: gray !important;
+    color: red;
+}
+.fondocolor{
+    background-color: gray !important ;
+}
+.navbar {
+    background-color: orange !important; 
+}
+.carousel-inner img {
+    max-width: 400px !important;
+    max-height: 400px !important;
+    margin: 0 auto;
+    display: block;
+}
